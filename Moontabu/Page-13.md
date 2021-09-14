@@ -13,7 +13,7 @@
 
 
    
-![](8530de8293cce712526a42dc72e777b.png)
+![](https://github.com/Moontabu/mypics/blob/535993eef6569b660e062b9dd5d0e41ff44a075a/8530de8293cce712526a42dc72e777b.png)
 <!--F 2.2 Normal map sample -->  
 2.2法线贴图的样本
 
